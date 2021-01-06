@@ -23,6 +23,7 @@ void main()
     printf("\b ].\n");
     getch();
    }
+
 }
  
 int fun2(int i,int j,int p[],int key)
