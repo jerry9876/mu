@@ -50,7 +50,7 @@ main()
         }
         e++;
     }
-    while(top != -1)
+    while(top !=-1)
     {
         printf("%c",pop());
     }
