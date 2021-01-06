@@ -8,7 +8,7 @@ void check(char c)
     if(isalpha(c))
     var++;
     
-    if(c==47||c==42||c==43||c==45||c==61||c==94)
+     if(c==47||c==42||c==43||c==45||c==61||c==94)
     op++;
 }
 /* ASCII values:
